@@ -1,2 +1,39 @@
 # Covid_Data_Analysis
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning and visualization.
+This project focuses on analyzing COVID-19 data using Excel and PivotTables to extract key insights. The dataset contains information on:
+
+📌 Total Cases & Deaths by country/region
+🏥 Hospitalized Patients trends
+🧪 Testing & Vaccination Data
+📈 Monthly & Yearly Trends
+
+📌 Key Features  
+- Total cases & deaths analysis by country/region    
+- Testing patterns & new cases correlation  
+- Summarized insights from raw data  
+
+ 📂 Dataset  
+The dataset includes COVID-19 statistics such as:  
+- Total cases & deaths  
+- New cases & tests conducted
+- Hospitalized patients & vaccination counts  
+- Region-wise data
+
+📊 Tools & Technologies  
+- Excel (PivotTables, data cleaning Data visualization, dashboards)  
+- DAX Measures (Custom calculations)  
+
+📊 Data Insights & Visualizations
+The analysis includes PivotTables, charts, and graphs to visualize the pandemic trends, helping to:
+✅ Understand case surges and peak periods
+✅ Track testing and vaccination efforts
+✅ Identify patterns in hospitalizations
+
+📌 How to Use the Data
+Download the Excel files from this repository
+Open in Excel and explore the PivotTables & Charts
+Modify and analyze data as per your needs
+
+🚀 Future Improvements
+Integration with Python (Pandas, Matplotlib) for deeper analysis
+Data automation using Power Query
+Adding Power BI dashboards
