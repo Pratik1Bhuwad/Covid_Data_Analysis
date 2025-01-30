@@ -12,11 +12,8 @@ This project focuses on analyzing COVID-19 data using Excel and PivotTables to e
 - Summarized insights from raw data  
 
  📂 Dataset  
-The dataset includes COVID-19 statistics such as:  
-- Total cases & deaths  
-- New cases & tests conducted
-- Hospitalized patients & vaccination counts  
-- Region-wise data
+ - <a href="https://github.com/Pratik1Bhuwad/Covid_Data_Analysis/blob/main/Covid_Data_Analysis_Project.xlsx"> Dataset</a>
+
 
 📊 Tools & Technologies  
 - Excel (PivotTables, data cleaning Data visualization, dashboards)  
